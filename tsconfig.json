@@ -20,6 +20,6 @@
     "jsx": "preserve"
   },
   "include": [
-    "src", "test/partie.test.js"
+    "src"
   ]
 }
