@@ -48,6 +48,6 @@
     "devDependencies": {
         "@types/react-radio-group": "^3.0.2",
         "css-loader": "^2.1.1",
-        "mocha": "^8.0.1"
+        "mocha": "^8.4.0"
     }
 }
